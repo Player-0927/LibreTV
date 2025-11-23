@@ -108,7 +108,7 @@ const SECURITY_CONFIG = {
 };
 
 // 添加多个自定义API源的配置
-const CUSTOM_API_CONFIG = {
+const CUSTOM_API_CONFIG = {http://api.1080zyku.com/inc/api.php/provide/vod
     separator: ',',           // 分隔符
     maxSources: 5,            // 最大允许的自定义源数量
     testTimeout: 5000,        // 测试超时时间(毫秒)
